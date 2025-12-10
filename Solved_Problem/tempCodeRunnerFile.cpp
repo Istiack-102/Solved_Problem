@@ -1,1 +1,1 @@
-obj.dequeuq();
+10e18
